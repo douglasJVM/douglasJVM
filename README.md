@@ -31,11 +31,7 @@ Busco constantemente evoluir minhas habilidades em desenvolvimento de software, 
 ### 📈 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=douglasJVM&theme=dark&hide_border=true" alt="GitHub Streak" />
-  
-  <br/><br/>
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=douglasJVM&theme=react-dark&bg_color=0d1117&hide_border=true" alt="Gráfico de Atividade" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=douglasJVM&theme=dark&hide_border=true" alt="Estatísticas de Sequência do GitHub" />
 </div>
 
 ---
