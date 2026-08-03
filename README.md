@@ -1,16 +1,42 @@
-## Hi there 👋
+# Olá, eu sou o Douglas Jesuino! 👋
 
-<!--
-**douglasJVM/douglasJVM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Busco constantemente evoluir minhas habilidades em desenvolvimento de software, com foco principal em **Backend, Arquitetura de Software e Automação de Processos**. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas (ADS).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias e Ferramentas
+
+* **Linguagens de Programação:** Java, C#, Php
+* **Frameworks & Web:** Spring Boot, HTML5, CSS3
+* **Banco de Dados:** SQL / MySQL
+* **Controle de Versão & Ferramentas:** Git, GitHub
+
+---
+
+### 🚀 Projetos em Destaque
+
+#### 📌 Task Manager API
+* **Descrição:** API RESTful desenvolvida para gerenciamento de tarefas, focando em boas práticas de arquitetura de software, injeção de dependências e organização de pacotes.
+* **Tecnologias:** Java, Spring Boot, MySQL.
+* **Link:** (https://github.com/douglasJVM/task-manager-spring)
+
+#### 📌 Sistema de Automação EHS (BOS)
+* **Descrição:** Projeto focado em automação industrial e segurança do trabalho, integrando leitura de crachás/RFID com sistemas corporativos (SAP) para digitalizar e otimizar a entrega de EPIs, eliminando o uso de papel.
+* **Tecnologias:** Php / Js, Integração de Hardware, SQL.
+* * **Link:**([https://github.com/seu-usuario/task-manager-api](https://github.com/douglasJVM/BOS)
+
+
+---
+
+### 📈 Estatísticas do GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&langs_count=7&theme=dark" alt="Linguagens mais usadas" />
+</div>
+
+---
+
+### 📫 Como me encontrar
+
+* **E-mail:** douglassantos0384@gmail.com
