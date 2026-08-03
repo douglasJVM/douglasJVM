@@ -21,9 +21,9 @@ Busco constantemente evoluir minhas habilidades em desenvolvimento de software, 
 * **Link:** (https://github.com/douglasJVM/task-manager-spring)
 
 #### 📌 Sistema de Automação EHS (BOS)
-* **Descrição:** Projeto focado em automação industrial e segurança do trabalho, integrando leitura de crachás/RFID com sistemas corporativos (SAP) para digitalizar e otimizar a entrega de EPIs, eliminando o uso de papel.
+* **Descrição:** Sistema web para registro, acompanhamento e exportação de observações comportamentais de segurança no chão de fábrica. Desenvolvido em PHP com suporte a PWA para instalação como aplicativo mobile.
 * **Tecnologias:** Php / Js, Integração de Hardware, SQL.
-* * **Link:**([https://github.com/seu-usuario/task-manager-api](https://github.com/douglasJVM/BOS)
+* * **Link:**  (https://github.com/douglasJVM/BOS)
 
 
 ---
@@ -31,9 +31,11 @@ Busco constantemente evoluir minhas habilidades em desenvolvimento de software, 
 ### 📈 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=douglasJVM&theme=dark&hide_border=true" alt="Estatísticas de Sequência do GitHub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=douglasJVM&theme=dark&hide_border=true" alt="GitHub Streak" />
+  
   <br/><br/>
-  <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api/top-langs/?username=douglasJVM&layout=compact&theme=dark&hide_border=true" alt="Linguagens mais usadas" />
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=douglasJVM&theme=react-dark&bg_color=0d1117&hide_border=true" alt="Gráfico de Atividade" />
 </div>
 
 ---
